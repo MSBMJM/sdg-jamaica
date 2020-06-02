@@ -17,11 +17,11 @@ environment: staging
 
 # In the next few items, replace "open-sdg" with the name of your GitHub
 # organization, and "open-sdg-data-starter" with the name of your data repository.
-remote_data_prefix: "https://a-l-fearon.github.io/sdg-data-test"
+remote_data_prefix: "https://msbmjm.github.io/sdg-data-jamaica"
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#a-l-fearon/sdg-data-test/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#MSBMJM/sdg-data-jamaica/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#a-l-fearon/sdg-data-test/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#MSBMJM/sdg-data-jamaica/edit/develop/meta/[id].md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
