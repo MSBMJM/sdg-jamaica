@@ -1759,6 +1759,9 @@ body.contrast-high #search-results .search-result .content {
     font-size: 14px;
     font-family: Century Gothic, helvetica neue;
 } */
+.lead-copy {
+  font-size: 20px; }
+
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #333;
